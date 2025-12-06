@@ -1,6 +1,6 @@
 body {
   background-image: url("Background.png");
- cursor: url("cursor,png"), auto;
+ cursor: url("cursor.png"), auto;
 }
 * {
 text-align: center;
